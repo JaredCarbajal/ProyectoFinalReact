@@ -1,0 +1,123 @@
+<div style="font-family: Times New Roman, Times, serif;">
+<h1 style="font-size: 14px; text-align: center;">T&iacute;tulo del Art&iacute;culo Periodistico</h1>
+<p style="font-size: 12px;">Autores: Nombre del Autor 1, Nombre del Autor 2, Nombre del Autor 3</p>
+<h2 style="font-size: 14px; text-align: center;">"NOMBRE DE LA NOTA"</h2>
+<p style="font-size: 12px; font-weight: bold; text-align: left;">&nbsp;</p>
+<div class="double-column">
+<div class="column">
+<p style="text-align: justify;"><span style="font-size: 10pt;"><strong>Introduccion de la nota</strong></span></p>
+<p style="text-align: justify;"><span style="font-size: 10pt;">La introducci&oacute;n de una nota en un art&iacute;culo period&iacute;stico es una parte crucial que establece el tono, presenta el tema principal y captura la atenci&oacute;n del lector. Aqu&iacute; hay algunas sugerencias sobre qu&eacute; debes incluir en la introducci&oacute;n:</span></p>
+<ol>
+<li style="font-size: 10pt; text-align: justify;">
+<p><span style="font-size: 10pt;"><strong>Hook o Gancho</strong>: Comienza con una frase o p&aacute;rrafo que llame la atenci&oacute;n del lector y lo enganche para seguir leyendo. Esto puede ser una pregunta intrigante, una estad&iacute;stica impactante, una an&eacute;cdota relevante o una cita relevante.</span></p>
+</li>
+<li style="font-size: 10pt; text-align: justify;">
+<p><span style="font-size: 10pt;"><strong>Contexto del Tema</strong>: Proporciona al lector un contexto b&aacute;sico sobre el tema principal de la nota. Esto puede incluir informaci&oacute;n sobre qu&eacute; est&aacute; sucediendo, qui&eacute;nes est&aacute;n involucrados y por qu&eacute; es relevante o importante.</span></p>
+</li>
+<li style="font-size: 10pt; text-align: justify;">
+<p><span style="font-size: 10pt;"><strong>Breve Resumen del Contenido</strong>: Describe brevemente de qu&eacute; se trata la nota y qu&eacute; pueden esperar los lectores encontrar en el resto del art&iacute;culo. Esto ayuda a establecer las expectativas y a mantener el inter&eacute;s del lector.</span></p>
+</li>
+<li style="font-size: 10pt; text-align: justify;">
+<p><span style="font-size: 10pt;"><strong>P&aacute;rrafo de Transici&oacute;n</strong>: Utiliza un p&aacute;rrafo de transici&oacute;n para llevar al lector desde la introducci&oacute;n hasta el cuerpo principal del art&iacute;culo. Esto puede ser una frase que conecte la introducci&oacute;n con el primer punto que se va a discutir en el art&iacute;culo.</span></p>
+</li>
+<li style="font-size: 10pt; text-align: justify;">
+<p><span style="font-size: 10pt;"><strong>Tonos y Estilos Apropiados</strong>: Aseg&uacute;rate de que el tono y el estilo de la introducci&oacute;n sean coherentes con el resto del art&iacute;culo y con la l&iacute;nea editorial del medio de comunicaci&oacute;n. La introducci&oacute;n debe reflejar la seriedad, el tono informativo o el estilo narrativo apropiado para el art&iacute;culo en cuesti&oacute;n.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p style="text-align: justify;"><span style="font-size: 10pt;"><strong>Longitud Adecuada</strong>: La introducci&oacute;n debe ser lo suficientemente breve como para captar la atenci&oacute;n del lector de manera efectiva, pero lo suficientemente larga como para proporcionar la informaci&oacute;n necesaria sobre el tema.</span></p>
+</li>
+</ol>
+<hr>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span style="font-size: 10pt;"><strong>Cierre de la nota</strong></span></p>
+<p style="text-align: justify;"><span style="font-size: 10pt;">En el cierre de una nota en un art&iacute;culo period&iacute;stico, se resume la informaci&oacute;n presentada en la introducci&oacute;n y el desarrollo, se refuerzan los puntos clave y se proporciona una conclusi&oacute;n o reflexi&oacute;n final sobre el tema tratado. Aqu&iacute; hay algunas pautas sobre qu&eacute; debes incluir en el cierre de la nota:</span></p>
+<ol style="text-align: justify;">
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Resumen de los Puntos Clave</strong>: Recapitula brevemente los puntos principales discutidos en el desarrollo de la nota. Esto ayuda a reforzar la informaci&oacute;n m&aacute;s relevante para el lector.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Conclusi&oacute;n o Reflexi&oacute;n Final</strong>: Proporciona una conclusi&oacute;n o reflexi&oacute;n final sobre el tema tratado en la nota. Puedes resumir la importancia del tema, destacar posibles soluciones o implicaciones futuras, o invitar a los lectores a reflexionar sobre el contenido presentado.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Llamado a la Acci&oacute;n (si es apropiado)</strong>: Si el tema de la nota involucra un problema o una situaci&oacute;n que requiere acci&oacute;n, puedes incluir un llamado a la acci&oacute;n para alentar a los lectores a involucrarse o tomar medidas pertinentes.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Perspectiva Personal (si es relevante)</strong>: Si tienes una perspectiva personal sobre el tema o alguna experiencia relacionada, puedes compartirla brevemente en el cierre. Esto puede agregar un toque humano y conectar emocionalmente con los lectores.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Consideraciones Finales</strong>: Termina con una nota positiva o reflexiva, o con una pregunta abierta para involucrar al lector y fomentar la reflexi&oacute;n adicional sobre el tema.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Llamado a la Continuidad</strong>: Si hay m&aacute;s desarrollos previstos en el tema o si se espera que la historia contin&uacute;e evolucionando, puedes mencionarlo en el cierre para mantener el inter&eacute;s del lector en el tema.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Cierre Convincente</strong>: Finaliza la nota de manera convincente y memorable. Utiliza un lenguaje fuerte y concluyente para dejar una impresi&oacute;n duradera en el lector.</span></p>
+</li>
+</ol>
+<div class="column">&nbsp;</div>
+</div>
+<div class="column">
+<p style="font-size: 12px; text-align: justify;"><strong>Desarrollo de la nota</strong></p>
+<p style="text-align: justify;"><span style="font-size: 10pt;">En el desarrollo de una nota en un art&iacute;culo period&iacute;stico, el objetivo es expandir la informaci&oacute;n presentada en la introducci&oacute;n, proporcionar detalles adicionales, contexto y an&aacute;lisis sobre el tema principal. Aqu&iacute; hay algunas pautas sobre qu&eacute; debes incluir en el desarrollo de la nota:&nbsp;</span></p>
+<ol style="text-align: justify;">
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Detalles y Contexto</strong>: Ampl&iacute;a la informaci&oacute;n presentada en la introducci&oacute;n proporcionando m&aacute;s detalles sobre el tema. Esto puede incluir antecedentes hist&oacute;ricos, datos estad&iacute;sticos relevantes, testimonios de expertos o partes involucradas, etc.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Entrevistas y Opiniones</strong>: Si es relevante para el tema, incluye citas o entrevistas con personas clave involucradas en el tema o con expertos en el campo. Esto puede agregar credibilidad y ofrecer diferentes perspectivas sobre el tema.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>An&aacute;lisis y Explicaci&oacute;n</strong>: Proporciona un an&aacute;lisis en profundidad del tema, explicando por qu&eacute; es importante, c&oacute;mo afecta a las personas o la sociedad, y cu&aacute;les podr&iacute;an ser las implicaciones a largo plazo. Utiliza ejemplos concretos y evidencia s&oacute;lida para respaldar tus puntos.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Estructura Organizada</strong>: Organiza el contenido de manera l&oacute;gica y coherente, dividiendo el desarrollo de la nota en secciones o p&aacute;rrafos claramente identificados. Esto facilita la comprensi&oacute;n del lector y ayuda a mantener su inter&eacute;s.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Claridad y Claridad</strong>: Aseg&uacute;rate de que el lenguaje utilizado sea claro, conciso y accesible para el lector promedio. Evita jergas innecesarias o t&eacute;rminos t&eacute;cnicos que puedan confundir al lector.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Equilibrio de Perspectivas</strong>: Si el tema es controvertido o tiene m&uacute;ltiples puntos de vista, intenta presentar una variedad de perspectivas de manera equilibrada y objetiva. Esto muestra imparcialidad y permite que el lector forme su propia opini&oacute;n.</span></p>
+</li>
+</ol>
+<p style="font-size: 12px; text-align: justify;">&nbsp;</p>
+<hr>
+<p style="font-size: 12px;"><strong>Elemento adicionales</strong></p>
+<p><span style="font-size: 10pt;">Al final de un art&iacute;culo period&iacute;stico, adem&aacute;s de los elementos mencionados anteriormente para el cierre, puedes considerar algunos apuntes adicionales para enriquecer la experiencia del lector y proporcionar informaci&oacute;n adicional relevante. Aqu&iacute; hay algunas sugerencias:</span></p>
+<ol>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Fuentes y Referencias</strong>: Si has utilizado fuentes externas en tu art&iacute;culo, puedes incluir una secci&oacute;n al final con enlaces o referencias bibliogr&aacute;ficas para que los lectores interesados puedan profundizar en el tema.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Informaci&oacute;n de Contacto</strong>: Si el art&iacute;culo trata sobre una organizaci&oacute;n, evento o persona espec&iacute;fica, puedes incluir informaci&oacute;n de contacto al final para que los lectores puedan obtener m&aacute;s detalles o ponerse en contacto si lo desean.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Recursos Adicionales</strong>: Si hay recursos adicionales disponibles, como sitios web, libros, pel&iacute;culas u otros materiales relacionados con el tema, puedes proporcionar enlaces o recomendaciones al final del art&iacute;culo.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Seguir en las Redes Sociales</strong>: Invita a los lectores a seguirte en tus redes sociales para obtener m&aacute;s actualizaciones sobre temas similares o para participar en la discusi&oacute;n en l&iacute;nea.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Encuestas o Preguntas para la Audiencia</strong>: Si deseas obtener comentarios de tus lectores o fomentar la participaci&oacute;n, puedes incluir una encuesta r&aacute;pida o hacer una pregunta abierta al final del art&iacute;culo.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Agradecimientos Especiales</strong>: Si has entrevistado a personas o has recibido ayuda de otros para crear el art&iacute;culo, puedes incluir una breve nota de agradecimiento al final para reconocer su contribuci&oacute;n.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Informaci&oacute;n Legal o de Derechos de Autor</strong>: Si es relevante, puedes incluir informaci&oacute;n legal o de derechos de autor al final del art&iacute;culo para aclarar la propiedad intelectual del contenido y sus derechos de reproducci&oacute;n.</span></p>
+</li>
+<li style="font-size: 10pt;">
+<p><span style="font-size: 10pt;"><strong>Invitaci&oacute;n a la Retroalimentaci&oacute;n</strong>: Anima a los lectores a proporcionar comentarios sobre el art&iacute;culo, ya sea a trav&eacute;s de comentarios en l&iacute;nea, correos electr&oacute;nicos o encuestas de retroalimentaci&oacute;n.</span></p>
+</li>
+</ol>
+<div class="column">
+<div class="column">
+<p style="font-size: 12px;">&nbsp;</p>
+</div>
+</div>
+<div class="column">
+<p style="font-size: 12px; text-align: justify;">&nbsp;</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+</div>
